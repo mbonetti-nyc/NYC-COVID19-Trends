@@ -1,0 +1,243 @@
+modzcta,borough,neighborhood
+10001,Manhattan,Hudson Yards / Herald Sq / Chelsea
+10002,Manhattan,Lower East Side
+10003,Manhattan,East Village / NoHo / Bowery
+10004,Manhattan,The Battery (and Liberty Is)
+10005,Manhattan,Wall Street / Pier 11
+10006,Manhattan,World Trade Center
+10007,Manhattan,City Hall / Civic Ctr / TriBeCa
+10009,Manhattan,Alphabet City / Stuyvesant Town
+10010,Manhattan,Flatiron District / Gramercy / Peter Cooper Village
+10011,Manhattan,Chelsea
+10012,Manhattan,SoHo / Greenwich Village
+10013,Manhattan,TriBeCa / Little Italy / Chinatown
+10014,Manhattan,West Village
+10015,Manhattan,NYC - General
+10016,Manhattan,Murray Hill / Kip's Bay
+10017,Manhattan,Tudor City / Grand Central / UN
+10018,Manhattan,Garment District
+10019,Manhattan,Hell's Kitchen / Midtown
+10020,Manhattan,Rockefeller Ctr / Radio City
+10021,Manhattan,The East Side
+10022,Manhattan,Midtown East
+10023,Manhattan,Lincoln Sq / The West Side
+10024,Manhattan,Upper West Side  / Central Park (in the 70s)
+10025,Manhattan,Manhattan Valley / Bloomingdale (High W 90s - Low W 100s)
+10026,Manhattan,Harlem South (W 110s & Morningside Pk)
+10027,Manhattan,Harlem
+10028,Manhattan,Yorkville
+10029,Manhattan,East (Spanish) Harlem
+10030,Manhattan,Strivers' Row (High W 130s - Low W 140s)
+10031,Manhattan,Hamilton Hts / City College / Sugar Hill
+10032,Manhattan,Washington Heights
+10033,Manhattan,George Washington Br (and The Apartment Bldgs) / Hudson Hts
+10034,Manhattan,Inwood
+10035,Manhattan,Harlem (in the E 120s) / Randall's Is
+10036,Manhattan,Midtown-Times Sq / Theater-Diamond Dists
+10037,Manhattan,Harlem (in the High E 130s - Low E 140s)
+10038,Manhattan,Financial Dist / South St Seaport / Brooklyn Br
+10039,Manhattan,Harlem (in the High E 140s - Low E 150s)
+10040,Manhattan,Fort George
+10041,Manhattan,Lower Manhattan
+10044,Manhattan,Roosevelt Island
+10045,Manhattan,Financial Dist / Maiden Ln
+10048,Manhattan,NYC - General
+10055,Manhattan,Midtown East / E 50s
+10060,Manhattan,Penn Plaza
+10065,Manhattan,Lenox Hill
+10069,Manhattan,Riverside Park South
+10075,Manhattan,Upper East Side
+10090,Manhattan,Lower Manhattan / Cortlandt St
+10095,Manhattan,Penn Plaza
+10098,Manhattan,NYC - General
+10099,Manhattan,NYC - General
+10103,Manhattan,Midtown East / E 50s
+10104,Manhattan,5 - 6 Avs / W 51 - 52 Sts
+10105,Manhattan,6 - 7 Avs / W 54 - 55 Sts
+10106,Manhattan,Broadway - 7 Av / W 56 - 57 Sts
+10107,Manhattan,Broadway - 8 Av / W 56 - 57 Sts
+10110,Manhattan,Bryant Park
+10111,Manhattan,Rockefeller Plaza
+10112,Manhattan,GE Building
+10115,Manhattan,The Interchurch Center (Riverside Dr / W 120 St)
+10118,Manhattan,Koreatown
+10119,Manhattan,Penn Station
+10120,Manhattan,Herald Square / 6 - 7 Avs / W 33 - 34 Sts
+10121,Manhattan,Madison Square Garden
+10122,Manhattan,One Penn Plaza
+10123,Manhattan,7 - 8 Avs / W 34 - 35 Sts
+10128,Manhattan,Carnegie Hill
+10151,Manhattan,5 Av / 57 St
+10152,Manhattan,Seagram Building / Park Av
+10153,Manhattan,Grand Army Plaza
+10154,Manhattan,Lexington - Park Avs / E 51 - 52 Sts
+10155,Manhattan,3 - Lexington Avs / E 57 - 58 Sts
+10158,Manhattan,3 Av / High E 30s
+10161,Manhattan,Lower Manhattan / Cortlandt St
+10162,Manhattan,John Jay Park / High E 70s
+10165,Manhattan,Park - Madison Avs / E 41 - 42 Sts
+10166,Manhattan,MetLife / Helmsey Bldgs
+10167,Manhattan,Lexington - Park Avs / E 46 - 47 Sts
+10168,Manhattan,Lexington - Park Avs / E 41 - 42 Sts
+10169,Manhattan,Helmsey Building
+10170,Manhattan,Grand Hyatt / Grand Central Terminal
+10171,Manhattan,Waldorf Astoria
+10172,Manhattan,"Midtown (Park Av, mid E 40s)"
+10173,Manhattan,Madison - 5 Avs / E 43 - 44 Sts
+10174,Manhattan,Chrystler Building
+10175,Manhattan,Madison - 5 Avs / E 43 - 44 Sts
+10176,Manhattan,Madison - 5 Avs / E 45 - 46 Sts
+10177,Manhattan,Helmsey Building
+10178,Manhattan,Park Av / E 40s
+10199,Manhattan,Main (Farley) Post Office
+10270,Manhattan,Lower Manhattan / South St
+10271,Manhattan,Trinity Church
+10278,Manhattan,Jacob K. Javits Federal Bldg
+10279,Manhattan,City Hall Park
+10280,Manhattan,Battery Park City
+10281,Manhattan,World Financial Center
+10282,Manhattan,Battery Park City / Rockefeller Park
+10301,Staten Island,St. George / New Brighton / Brighton Hts / Silver Lake / Sunnyside
+10302,Staten Island,Elm Park
+10303,Staten Island,Mariners' Harbor / Arlington / Old Place
+10304,Staten Island,Todt Hill / The Hills / Clifton / Tompkinsville
+10305,Staten Island,Dongan Hills / Arrochar / Rosebank / Fort Wadsworth
+10306,Staten Island,New Dorp / Great Kills / Richmond / Midland Beach
+10307,Staten Island,Tottenville
+10308,Staten Island,Great Kills
+10309,Staten Island,Rossville / Charleston / Prince's Bay
+10310,Staten Island,Port Richmond / West Brighton
+10311,Staten Island,Travis-Chelsea
+10312,Staten Island,Annadale / Eltingville / Arden Heights
+10314,Staten Island,Travis-Chelsea / Bloomfield / Bull's Head / New Springville / Graniteville / Westerleigh / Mid Island / Castleton Crnrs
+10451,Bronx,Mott Haven
+10452,Bronx,Highbridge / Concourse / Mount Eden
+10453,Bronx,Morris Hts / University Hts
+10454,Bronx,Mott Haven / Port Morris
+10455,Bronx,St. Mary's Park
+10456,Bronx,Morrisania
+10457,Bronx,West Bronx / Belmont / Mount Hope / Claremont / Crotona Park
+10458,Bronx,Fordham / Fordham Hts / Fordham Manor / Little Italy / NY Botantical Gardens
+10459,Bronx,Longwood
+10460,Bronx,Crotona / Crotona Park East / West Farms / Van Nest
+10461,Bronx,Morris Park / Westchester Sq / Pelham Bay
+10462,Bronx,Parkchester / Pelham Parkway
+10463,Bronx,Kingsbridge / Spuyten Duyvil / Van Cortlandt Village
+10464,Bronx,City Island / Pelham Bay Park
+10465,Bronx,Throgs Neck
+10466,Bronx,Wakefield / Edenwald
+10467,Bronx,Norwood / Olinville / Parkside Houses / Allerton
+10468,Bronx,Kingsbridge Heights / Jerome Park
+10469,Bronx,Williamsbridge / East Bronx / Allerton / Baychester
+10470,Bronx,Woodlawn
+10471,Bronx,Riverdale
+10472,Bronx,Soundview
+10473,Bronx,Clason Point / Castle Hill
+10474,Bronx,Hunts Point
+10475,Bronx,Co-op City
+11004,Queens,Glen Oaks
+11101,Queens,LIC-Hunters Point / Dutch Kills / Queensbridge / Astoria
+11102,Queens,Astoria (Western Queens) / Hallets Point
+11103,Queens,Astoria BID / Steinway St (B'way - Grand Central Pkwy & Low 30 Avs - 40 Sts)
+11104,Queens,Sunnyside
+11105,Queens,Astoria Park / Ditmars
+11106,Queens,Astoria / Ravenswood (Low 20 Sts - High 30 Avs)
+11109,Queens,Long Is City (Gantry State Pk/CityLights)
+11201,Brooklyn,DUMBO / Vinegar Hill / Dtwn Bklyn / Bklyn Hts / MetroTech
+11203,Brooklyn,East Flatbush
+11204,Brooklyn,Bensonhurst
+11205,Brooklyn,Clinton Hill
+11206,Brooklyn,Broadway Triangle / Sumner Houses
+11207,Brooklyn,New Lots / Broadway Junction
+11208,Brooklyn,East New York / Cypress Hills
+11209,Brooklyn,Bay Ridge
+11210,Brooklyn,South Midwood / East Midwood
+11211,Brooklyn,Williamsburg / South Williamsburg / East Williamsburg
+11212,Brooklyn,Brownsville
+11213,Brooklyn,Crown Heights
+11214,Brooklyn,Bath Beach
+11215,Brooklyn,Park Slope / Gowanus
+11216,Brooklyn,Bedford-Stuyvesant / Crown Hts
+11217,Brooklyn,Boerum Hill
+11218,Brooklyn,Kensington / Windsor Terrace
+11219,Brooklyn,Borough Park
+11220,Brooklyn,Sunset Park
+11221,Brooklyn,Bedford-Stuyvesant / Bushwick
+11222,Brooklyn,Greenpoint
+11223,Brooklyn,Gravesend
+11224,Brooklyn,Coney Island
+11225,Brooklyn,Prospect-Lefferts Gardens
+11226,Brooklyn,Flatbush / Prospect Park South
+11228,Brooklyn,Dyker Heights
+11229,Brooklyn,Homecrest / Sheepshead Bay / Gerritsen Beach
+11230,Brooklyn,Midwood
+11231,Brooklyn,Red Hook / Carroll Gardens
+11232,Brooklyn,Industry City
+11233,Brooklyn,Weeksville
+11234,Brooklyn,Flatlands / Mill Basin / Floyd Bennett Field
+11235,Brooklyn,Brighton Bch / Manhattan Bch / Sheepshead Bay
+11236,Brooklyn,Canarsie
+11237,Brooklyn,Bushwick
+11238,Brooklyn,Prospect Heights
+11239,Brooklyn,Starrett City / Spring Creek
+11241,Brooklyn,Borough Hall
+11242,Brooklyn,Borough Hall
+11243,Brooklyn,Atlantic Terminal
+11249,Brooklyn,Williamsburg
+11252,Brooklyn,Fort Hamilton
+11256,Brooklyn,Lindenwood
+11351,Queens,USPS Queens Processing & Distribution Ctr - College Point
+11354,Queens,Dtwn Flushing / Flushing / Linden Hill
+11355,Queens,Flushing / Kissena Park
+11356,Queens,College Point
+11357,Queens,Whitestone / Malba / Beechhurst / Clearview
+11358,Queens,Murray Hill / Broadway-Flushing / Auburndale
+11359,Queens,Fort Totten
+11360,Queens,Bay Terrace
+11361,Queens,Bayside
+11362,Queens,Douglaston
+11363,Queens,Little Neck
+11364,Queens,Oakland Gardens
+11365,Queens,Utopia - Pomonok
+11366,Queens,Fresh Meadows
+11367,Queens,Kew Gardens Hills
+11368,Queens,Corona / Willets Point
+11369,Queens,East Elmhurst
+11370,Queens,Astoria Heights / Jackson Heights
+11371,Queens,LaGuardia Airport
+11372,Queens,Jackson Heights
+11373,Queens,Elmhurst
+11374,Queens,Rego Park
+11375,Queens,Forest Hills
+11377,Queens,Woodside
+11378,Queens,Maspeth
+11379,Queens,Middle Village
+11385,Queens,Ridgewood / Glendale
+11411,Queens,Cambria Heights
+11412,Queens,St. Albans
+11413,Queens,Laurelton
+11414,Queens,Howard Beach
+11415,Queens,Kew Gardens
+11416,Queens,Ozone Park (101 Av / Rockaway Blvd)
+11417,Queens,Ozone Park
+11418,Queens,Richmond Hill
+11419,Queens,South Richmond Hill
+11420,Queens,South Ozone Park
+11421,Queens,Woodhaven
+11422,Queens,Rosedale
+11423,Queens,Hollis
+11426,Queens,Floral Park
+11427,Queens,Hollis Hills
+11428,Queens,Queens Village / Jamaica Av
+11429,Queens,Queens Village
+11430,Queens,JFK Airport
+11432,Queens,Jamaica Hills / Jamaica Estates
+11433,Queens,Jamaica
+11434,Queens,South Jamaica / Rochdale / Springfield Gdns / Addisleigh Pk
+11435,Queens,Briarwood
+11436,Queens,S Ozone Park / S Jamaica (Linden/Sutphin Bls & Belt Pkwy/Van Wyck Expwy)
+11691,Queens,Far Rockaway / Edgemere / Bayswater
+11692,Queens,Arverne
+11693,Queens,Broad Channel / Rockaway Beach
+11694,Queens,Belle Harbor / Rockaway Park
+11697,Queens,Breezy Point
