@@ -32,7 +32,7 @@ library(tidyverse)
 # II. Set Working Directory
 ############################
 
-#setwd("C:\\Users\\Blwndrpwrmlk\\Desktop\\NYC COVID-19 Trends")
+#setwd("C:\\Users\\****\\Desktop\\NYC COVID-19 Trends")
 all_modzcta = readRDS("all_modzcta.RDS")
 
 #################################
