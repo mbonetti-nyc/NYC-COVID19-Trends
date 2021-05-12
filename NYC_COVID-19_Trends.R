@@ -28,7 +28,7 @@ library(leaflet)      # interactive maps
 library(htmlwidgets)  # interactive map labels
 
 #setwd("~/")
-setwd("C:\\Users\\Blwndrpwrmlk\\Desktop\\NYC COVID-19 Trends")
+setwd("C:\\Users\\****\\Desktop\\NYC COVID-19 Trends")
 
 ################
 # II. Load Data
@@ -108,7 +108,6 @@ all_modzcta %>%
   geom_histogram(bins = 20, fill = '#69b3a2', color = 'white') +
   labs(title = "Histogram of NYC COVID-19 Case Rate Distribution",
        x = "Case Rate (per 100,000 NYC Residents)", y = "Case Count")
-  
 
 ##############################################
 # VI. Make Interactive Map of Caserate (Test)
