@@ -12,7 +12,7 @@
 
 This project aims to examine COVID-19 (novel coronavirus) trends throughout the 5 boroughs of New York City, from August 2020 to the present, via dynamic, user-controlled choropleth maps. Measurements are COVID-19 cases per 100,000 NYC residents, tests per 100,000 NYC residents, and percent positives of NYC residents.
 
-Percent positives indicate the percentage of NYC residents who tested for COVID-19 with a positive molelcular test. Modified ZCTA (ZIP Code Tabulation Area) are shown instead of ZCTA, whereby unusually small ZCTAs are consolidated into MODZCTAs for better regional comparions. ZCTA-to-MODZCTA coversion tables are available in the NYC Health Coronavirus Data Repository. Data from the repository is mapped and aggregated weekly (7-day rolling averages) from the NYC Department of Health, per ZIP codes (MODZCTA) and categorized by weekly 'ending in' dates.
+Percent positives indicate the percentage of NYC residents who tested for COVID-19 with a positive molecular test. Modified ZCTA (ZIP Code Tabulation Area) are shown instead of ZCTA, whereby unusually small ZCTAs are consolidated into MODZCTAs for better regional comparsions. ZCTA-to-MODZCTA conversion tables are available in the NYC Health Coronavirus Data Repository. Data from the repository is mapped and aggregated weekly (7-day rolling averages) from the NYC Department of Health, per ZIP codes (MODZCTA) and categorized by weekly 'ending in' dates.
 https://github.com/nychealth/coronavirus-data
 
 #
