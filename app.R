@@ -32,7 +32,7 @@ library(tidyverse)
 # II. Set Working Directory
 ############################
 
-#setwd("C:\\Users\\****\\Desktop\\NYC COVID-19 Trends")
+#setwd("C:\\Users\\Blwndrpwrmlk\\Desktop\\NYC COVID-19 Trends")
 all_modzcta = readRDS("all_modzcta.RDS")
 
 #################################
@@ -41,20 +41,22 @@ all_modzcta = readRDS("all_modzcta.RDS")
 
 ui = fluidPage(
   # Application title
-  titlePanel("NYC COVID-19 Trends by Zip Code (Modified ZCTA)"),
+  titlePanel("NYC COVID-19 Trends by ZIP Code (Modified ZCTA)"),
   # Sidebar with a date input
   sidebarLayout(
     sidebarPanel(
       tags$a(href="https://github.com/nychealth/coronavirus-data","Data Repository - GitHub", target="_blank"),
       tags$br(),
       tags$a(href="https://rockedu.rockefeller.edu/people/caitlin-gilbert/","Caitlin Gilbert - The Rockefeller University", target="_blank"),
-      tags$hr(), h6("All data metrics are aggregated by week (categorized by weekly 'ending in' dates). Percent positives indicate the percentage of NYC residents who tested for COVID-19 with a positive molelcular test."),
-      h6("Modified ZCTA (ZIP Code Tabulation Area) shown instead of ZCTA, whereby unusually small ZCTAs are consolidated into MODZCTAs for better regional comparions. ZCTA-to-MODZCTA coversion table available in Data Repository."),
-      tags$hr(), h6("Special thanks to Caitlin Gilbert, a Rockefeller Graduate Fellow and PhD candidate at the Rockefeller Univerity (New York, NY), for her work, contributions, and tutorials related to the creation of this R code and R Shiny Application."),
-      tags$hr(), h6("All data is coursed from the NYC Department of Health."),
+      tags$hr(), h6("All data metrics are aggregated by week (categorized by weekly 'ending in' dates). Percent positives indicate the percentage of NYC residents who tested for COVID-19 with a positive molecular test."),
+      h6("Modified ZCTA (ZIP Code Tabulation Area) is shown instead of ZCTA, whereby unusually small ZCTAs are consolidated into MODZCTAs for better regional comparisons. ZCTA-to-MODZCTA conversion table available in Data Repository."),
+      tags$hr(), h6("Special thanks to Caitlin Gilbert, a Rockefeller Graduate Fellow and Ph.D. candidate at the Rockefeller Univerity (New York, NY), for her work, contributions, and tutorials related to the creation of this R code and R Shiny Application."),
+      tags$hr(), h6("All data is sourced from the NYC Department of Health."),
       tags$br(), tags$a(href="https://github.com/mbonetti-nyc/NYC-COVID19-Trends","Michael S. Bonetti - GitHub", target="_blank"),
-      h6("Zicklin School of Business"),
-      h6("CUNY Bernard M. Baruch College"),
+      tags$br(), tags$a(href="https://zicklin.baruch.cuny.edu/","Zicklin School of Business", target="_blank"),
+      tags$br(), tags$a(href="https://www.baruch.cuny.edu/","CUNY Bernard M. Baruch College", target="_blank"),
+      #h6("Zicklin School of Business"),
+      #h6("CUNY Bernard M. Baruch College"),
       selectInput("date",
                   "Select a date (week ending in):",
                   choices = unique(all_modzcta$week_ending))),
